@@ -1,5 +1,5 @@
 # Calculator-Bot
-## Commands
+## Commands (x and y would be your numbers)
 ### Multiply 
 Multiply = !mathmult x y
 ### Addition 
